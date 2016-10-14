@@ -12,3 +12,10 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+.center-row{
+	padding: 20px;
+	background-color: rgba(0,0,0,.5);
+}
+.details>h1, .details>p{
+	text-align:center;
+}
