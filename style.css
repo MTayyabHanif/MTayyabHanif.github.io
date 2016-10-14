@@ -17,6 +17,6 @@ body {
 	background-color: rgba(0,0,0,.5);
 }
 .details>h1, .details>p{
-        color:#fff
+        color:#fff;
 	text-align:center;
 }
